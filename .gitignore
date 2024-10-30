@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+data/
+notebooks/.ipynb_checkpoints/
+*.pyc
+results
+wandb
+elasticsearch-7.9.2**
+elasticsearch
+*.jsonl
+*.zip
+.env
