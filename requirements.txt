@@ -1,1 +1,12 @@
 pandas
+python-dotenv==1.0.1
+llama-index-multi-modal-llms-gemini==0.3.*
+llama-index-vector-stores-qdrant==0.3.*
+llama-index-embeddings-gemini==0.2.*
+huggingface_hub==0.26.2
+moviepy==1.0.*
+pytubefix==8.2.*
+SpeechRecognition==3.11.*
+llama-index-vector-stores-lancedb==0.2.*
+llama-index-embeddings-clip==0.2.*
+git+https://github.com/openai/CLIP.git

@@ -9,3 +9,4 @@ elasticsearch
 *.jsonl
 *.zip
 .env
+lancedb
