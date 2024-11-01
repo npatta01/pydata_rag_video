@@ -9,4 +9,10 @@ pytubefix==8.2.*
 SpeechRecognition==3.11.*
 llama-index-vector-stores-lancedb==0.2.*
 llama-index-embeddings-clip==0.2.*
+rich==13.9.*
+youtube_transcript_api==0.6.*
 git+https://github.com/openai/CLIP.git
+llama_index.embeddings.openai==0.2.*
+llama_index.llms.openai==0.2.*
+llama_index.multi_modal_llms.openai==0.2.*
+llama-index-readers-file==0.2.*
