@@ -16,3 +16,5 @@ llama_index.embeddings.openai==0.2.*
 llama_index.llms.openai==0.2.*
 llama_index.multi_modal_llms.openai==0.2.*
 llama-index-readers-file==0.2.*
+llama-hub-youtube-transcript==0.0.*
+llama-index-readers-youtube-transcript==0.2.*
