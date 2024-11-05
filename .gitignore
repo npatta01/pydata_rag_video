@@ -11,3 +11,4 @@ elasticsearch
 .env
 lancedb
 node_modules
+storage
