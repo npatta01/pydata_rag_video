@@ -21,6 +21,9 @@ Use the below notebook to get started
 [Link](assets/slides.pdf)
 
 
+## What we arre building
+![Architecture](assets/rag_e2e.jpeg)
+
 
 
 ## Contact
