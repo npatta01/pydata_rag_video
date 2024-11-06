@@ -9,3 +9,6 @@ elasticsearch
 *.jsonl
 *.zip
 .env
+lancedb
+node_modules
+storage
