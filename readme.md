@@ -10,7 +10,7 @@ Hands-on workshop for RAG pydata youtube video search
 
 Use the below notebook to get started
 
-<a target="_blank" href="https://colab.research.google.com/github/npatta01/pydata_rag_video/blob/master/pydata_workshop.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/npatta01/pydata_rag_video/blob/master/notebooks/pydata_workshop.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
